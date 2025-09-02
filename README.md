@@ -46,24 +46,31 @@ This project demonstrates the process of cleaning and preparing data using Excel
   - Publishing dashboard on Tableau Public.
  
 ## Workflow
-1. **Data Collection**:
-   - Gather raw training data from internal sources.
-2. **Requirement Document Creation**:
-   - Define the objectives, scope, and key metrics of the dashboard.
-   - Specify data sources, target audience, and any specific needs or constraints.
-   - Ensure alignment with business goals and stakeholder expectations.
-3. **Data Cleaning (Excel)**:
-   - Remove duplicates and irrelevant columns.
-   - Handle missing data (e.g., filling, dropping).
-   - Standardize column names and data formats.
-4. **Data Analysis (Excel)**:
-   - Calculate key metrics such as total hours, completion rates, and averages.
-5. **Dashboard Creation (Tableau)**:
-   - Import cleaned data into Tableau.
-   - Create visualizations like bar charts, line charts, and scatter plot.
-   - Design an interactive and user-friendly dashboard layout.
-6. **Publishing**:
-   - Publish the dashboard to Tableau Public for sharing and review.
+1. **Data Collection**  
+   - Gather raw training data from internal sources.  
+
+2. **Requirement Document Creation**  
+   - Define the objectives, scope, and key metrics of the dashboard.  
+   - Specify data sources, target audience, and any specific needs or constraints.  
+   - Ensure alignment with business goals and stakeholder expectations.  
+
+3. **Data Cleaning (Excel)**  
+   - Remove duplicates and irrelevant columns.  
+   - Handle missing data (e.g., filling, dropping).  
+   - Standardize column names and data formats.  
+
+4. **Data Analysis (Excel)**  
+   - Calculate key metrics such as total hours, completion rates, and averages.  
+
+5. **Dashboard Creation (Tableau)**  
+   - Import cleaned data into Tableau.  
+   - Create visualizations like bar charts, line charts, and scatter plots.  
+   - Design an interactive and user-friendly dashboard layout.  
+
+6. **Insight Generation & Reporting**  
+   - Analyze dashboard outputs to identify issues such as delays, budget overruns, or low completion rates.  
+   - Create a structured report highlighting key findings and areas for improvement.  
+   - Propose actionable recommendations for HR and training strategy.  
   
 ## Dataset Description
 - **Source**: Simulated training dataset with fictional employee training data, provided in an Excel file containing three sheets:
