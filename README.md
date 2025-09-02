@@ -8,34 +8,20 @@ This project demonstrates the process of cleaning and preparing data using Excel
 - **Analyze learner data** using key metrics such as training hours, completion rates, and demographic factors (e.g., department, age, job title), which helps in understanding how different groups are engaging with training programs.
 - **Evaluate cost allocation** by assessing how the training budget is distributed across various programs and comparing it against key metrics to determine whether the investment aligns with training outcomes and organizational goals.
 - **Address inefficiencies in resource allocation** by providing insights into where resources (both time and budget) are being underutilized or overinvested, helping improve future training strategies and cost-effectiveness.
+  
+## Analysis Scope
 
-## Features
-- ### Data Cleaning
-- **Handling Missing Data**: Fill in or remove missing values to ensure data consistency.
-- **Removing Duplicates**: Identify and eliminate duplicate records to maintain clean and accurate data.
-- **Data Transformation**: Standardize column names and formats, ensuring the data is consistent and suitable for analysis.
+### 1. Training Performance
+- Analyze training completion rates, including on-time vs. delayed courses.  
+- Compare actual vs. planned participation to identify gaps in engagement.  
 
-### Key Tracking Features
-- **Training Program Completion Tracking**: Track the number of training programs completed on schedule. This feature helps monitor whether training programs are being completed within the planned timeframes.
-- **Participant Tracking**: Track the number of participants in each training program, comparing actual attendance with the planned attendance. This helps identify discrepancies and monitor participation levels.
-- **On-Time vs. Delayed Completion**: Identify which training programs were completed on time and which were delayed, providing insight into the efficiency and scheduling of training activities.
+### 2. Learner Insights
+- Segment learners by demographics (e.g., department, role, age) to uncover participation patterns.  
+- Evaluate engagement levels and module completion to highlight learning effectiveness.  
 
-### Learner Analysis
-- **Demographic Segmentation**: Analyze training participation and performance based on employee demographics such as department, job role, and age. This helps identify trends and areas where training may need to be tailored for different groups.
-- **Completion and Engagement**: Track how engaged learners are by monitoring participation rates and completion of assigned training modules.
-
-### Cost Allocation Evaluation
-- **Budget vs. Actual Cost Comparison**: Track and compare actual training expenditures against the planned training budget. This comparison helps evaluate if the training costs align with the goals and outcomes.
-- **Resource Allocation Efficiency**: Identify areas where training resources may be underutilized or over-invested, offering insights to improve future training budget planning.
-
-### Interactive Dashboard
-- **Filters**: Users can filter data by department, training type, or date range to focus on specific insights.
-- **Drill-Down Features**: Enable users to click on specific metrics to explore deeper details, such as viewing data for a particular department or specific time period.
-
-### Annual Training Overview
-- **Training Execution**: Track the percentage of planned training hours utilized, on-time course delivery, and completion rates.
-- **Learner Participation**: Assess average training hours per learner, discrepancies between planned vs. actual learners, and compliance with mandatory training requirements.
-- **Cost Efficiency**: Monitor cost overruns, cost per learner, and cost per training hour to evaluate budget control and cost-effectiveness.
+### 3. Cost Analysis
+- Compare budgeted vs. actual training costs to detect overruns.  
+- Assess cost per learner and per training hour to measure efficiency. 
 
 ## Tools Used
 - **Excel**:
